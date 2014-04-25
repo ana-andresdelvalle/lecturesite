@@ -1,0 +1,52 @@
+
+body {
+
+	background-image: url(images/services.png);
+	padding: 5%;
+	padding-top:	2.5%;
+
+}
+
+h1{
+	color: #36B;
+	font-size: 400%;
+	font-family:	Georgia;
+	margin-bottom: 	5%;
+}
+
+p{	
+	color: #222;
+	font-size: 200%;
+	font-family:	Tahoma;
+	margin-left:	5%;
+
+}
+.topics{
+	padding-left:	5%;
+	padding-right:	5%;
+}
+.red{
+	color: red;
+}
+
+.green{
+	color: green;
+}
+
+.purple{
+	color: purple;
+}
+	
+
+.contact{
+	font-family:	calibri;
+}
+
+a {
+	text-decoration: none;
+} 
+
+a:hover{
+	font-weight: bold;
+	color:	blue;
+}
